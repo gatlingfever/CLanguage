@@ -1,5 +1,3 @@
-// Post Address : http://gamegramming.tistory.com/204
-
 #include <stdio.h>
 
 main()
